@@ -1,0 +1,14 @@
+version: "3.5"
+
+services:
+  infn_jobs_bot:
+    container_name: "infn_jobs_bot"
+    build:
+      context: .
+    restart: always
+    environment:
+      - TELEGRAM_TOKEN=
+      - CHECK_PERIOD=10
+    volumes:
+      - ./users.json:/bot/users.json
+      - ./infn_jobs_bot.py:/bot/infn_jobs_bot.py
