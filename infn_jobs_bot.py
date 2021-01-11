@@ -12,7 +12,7 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
 }
 date_pattern = re.compile(r"(\d+-\d+-\d+)")
-users_json_file = "users.json"
+users_json_file = "/data/users.json"
 check_period = int(os.getenv("CHECK_PERIOD", 600))
 token = os.getenv("TELEGRAM_TOKEN", None)
 
@@ -153,8 +153,8 @@ if __name__ == "__main__":
             continue
 
         data = mine_data(soup)
-        old_data = load_old_data("data.pkl")
-        save_data("data.pkl", data)
+        old_data = load_old_data("/data/data.pkl")
+        save_data("/data/data.pkl", data)
 
         if old_data is None:
             print("Could not load old data")
