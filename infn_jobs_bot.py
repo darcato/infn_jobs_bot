@@ -1,10 +1,8 @@
 import os
 import time
-import re
 import pickle
 import json
 import requests
-from bs4 import BeautifulSoup
 import telegram
 
 url = "https://jobs.dsi.infn.it./data.php"
