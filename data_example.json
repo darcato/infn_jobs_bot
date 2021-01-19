@@ -1,0 +1,92 @@
+[
+    {
+        "unique_id": "bs_2886",
+        "tipo": "BORSA DI STUDIO",
+        "numero": "22760",
+        "titolo": "Concorso per il conferimento di n. 1 borsa di studio per attività di formazione ad indirizzo tecnologico per diplomati, da usufruire presso i Laboratori Nazionali di Legnaro",
+        "scadenza": "20-01-2021",
+        "numero_posti": "1",
+        "url_bando": "https: //jobs.dsi.infn.it/borseassegni/pdf/getfile.php?filename=22760.pdf"
+    },
+    {
+        "unique_id": "bs_2885",
+        "tipo": "BORSA DI STUDIO",
+        "numero": "22759",
+        "titolo": "Concorso per il conferimento di n. 1 borsa di studio per attività di formazione ad indirizzo tecnologico per neolaureati, da usufruire presso i Laboratori Nazionali di Frascati",
+        "scadenza": "20-01-2021",
+        "numero_posti": "1",
+        "url_bando": "https://jobs.dsi.infn.it/borseassegni/pdf/getfile.php?filename=22759.pdf"
+    },
+    {
+        "unique_id": "bs_2896",
+        "tipo": "ASSEGNO DI RICERCA",
+        "numero": "22810",
+        "titolo": "1 assegno di ricerca nell'ambito della ricerca tecnologica presso Sezione di Catania",
+        "scadenza": "12-02-2021",
+        "numero_posti": "1",
+        "url_bando": "https: //jobs.dsi.infn.it/borseassegni/pdf/getfile.php?filename=22810.pdf"
+    },
+    {
+        "unique_id": "bs_2895",
+        "tipo": "ASSEGNO DI RICERCA",
+        "numero": "22809",
+        "titolo": "1 assegno di ricerca nell'ambito della ricerca tecnologica presso Sezione Milano Bicocca",
+        "scadenza": "12-02-2021",
+        "numero_posti": "1",
+        "url_bando": "https: //jobs.dsi.infn.it/borseassegni/pdf/getfile.php?filename=22809.pdf"
+    },
+    {
+        "unique_id": "bs_2894",
+        "tipo": "ASSEGNO DI RICERCA",
+        "numero": "22808",
+        "titolo": "1 assegno di ricerca nell'ambito della ricerca tecnologica presso Laboratori Nazionali di Frascati",
+        "scadenza": "12-02-2021",
+        "numero_posti": "1",
+        "url_bando": "https: //jobs.dsi.infn.it/borseassegni/pdf/getfile.php?filename=22808.pdf"
+    },
+    {
+        "unique_id": "bs_2893",
+        "tipo": "ASSEGNO DI RICERCA",
+        "numero": "22807",
+        "titolo": "1 assegno di ricerca nell'ambito della ricerca scientifica presso Laboratori Nazionali di Frascati",
+        "scadenza": "12-02-2021",
+        "numero_posti": "1",
+        "url_bando": "https://jobs.dsi.infn.it/borseassegni/pdf/getfile.php?filename=22807.pdf"
+    },
+    {
+        "unique_id": "bs_2892",
+        "tipo": "ASSEGNO DI RICERCA",
+        "numero": "22797",
+        "titolo": "1 assegno di ricerca nell'ambito della ricerca tecnologica presso Laboratori Nazionali di Frascati",
+        "scadenza": "11-02-2021",
+        "numero_posti": "1",
+        "url_bando": "https://jobs.dsi.infn.it/borseassegni/pdf/getfile.php?filename=22797.pdf"
+    },
+    {
+        "unique_id": "bs_2891",
+        "tipo": "ASSEGNO DI RICERCA",
+        "numero": "22796",
+        "titolo": "1 assegno di ricerca nell'ambito della ricerca scientifica presso Laboratori Nazionali di Frascati",
+        "scadenza": "11-02-2021",
+        "numero_posti": "1",
+        "url_bando": "https://jobs.dsi.infn.it/borseassegni/pdf/getfile.php?filename=22796.pdf"
+    },
+    {
+        "unique_id": "bs_2890",
+        "tipo": "ASSEGNO DI RICERCA",
+        "numero": "22795",
+        "titolo": "1 assegno di ricerca nell'ambito della ricerca tecnologica presso Sezione di Firenze",
+        "scadenza": "11-02-2021",
+        "numero_posti": "1",
+        "url_bando": "https://jobs.dsi.infn.it/borseassegni/pdf/getfile.php?filename=22795.pdf"
+    },
+    {
+        "unique_id": "bs_2897",
+        "tipo": "ASSEGNO DI RICERCA",
+        "numero": "22811",
+        "titolo": "1 assegno di ricerca nell'ambito della ricerca tecnologica presso Laboratori Nazionali del Gran Sasso",
+        "scadenza": "02-02-2021",
+        "numero_posti": "1",
+        "url_bando": "https://jobs.dsi.infn.it/borseassegni/pdf/getfile.php?filename=22811.pdf"
+    }
+]
