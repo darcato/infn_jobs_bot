@@ -109,6 +109,8 @@ if __name__ == "__main__":
     bot = telegram.Bot(token=token)
 
     while True:
+        time.sleep(check_period)
+
         data = download_webpage(url)
         if data is None:
             print("Could not download data")
@@ -126,5 +128,3 @@ if __name__ == "__main__":
             msg = compose_msg(offer)
             print(f"Sending offer to {len(users.values())} users:\n{msg}")
             send_messages(users, msg)
-
-        time.sleep(check_period)
