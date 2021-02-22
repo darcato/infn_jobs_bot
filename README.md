@@ -1,6 +1,6 @@
 # INFN Jobs Telegram Bot
 
-A telegram bot to parse job offers from INFN website (https://jobs.dsi.infn.it/) and send them as telegram messages to selected users.
+A telegram bot to download job offers from INFN website (https://jobs.dsi.infn.it/data.php) and send them as telegram messages to selected users.
 
 ## How to use
 
